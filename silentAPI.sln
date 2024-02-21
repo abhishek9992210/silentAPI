@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "silentAPI", "silentAPI\silentAPI.csproj", "{ED2128FB-1F68-4567-A6FF-ED0DBE1B1D73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiClient", "WebApiClient\WebApiClient.csproj", "{15CAE6EB-B071-45DF-9D67-AD2224EF868F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED2128FB-1F68-4567-A6FF-ED0DBE1B1D73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED2128FB-1F68-4567-A6FF-ED0DBE1B1D73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED2128FB-1F68-4567-A6FF-ED0DBE1B1D73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED2128FB-1F68-4567-A6FF-ED0DBE1B1D73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15CAE6EB-B071-45DF-9D67-AD2224EF868F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15CAE6EB-B071-45DF-9D67-AD2224EF868F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15CAE6EB-B071-45DF-9D67-AD2224EF868F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15CAE6EB-B071-45DF-9D67-AD2224EF868F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {622A208A-5BA8-4D4A-8354-A8400D05E659}
+	EndGlobalSection
+EndGlobal
